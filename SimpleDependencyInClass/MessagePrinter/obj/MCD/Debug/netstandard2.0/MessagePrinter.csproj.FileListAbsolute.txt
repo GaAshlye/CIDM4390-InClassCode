@@ -1,0 +1,9 @@
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\bin\MCD\Debug\netstandard2.0\MessagePrinter.deps.json
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\bin\MCD\Debug\netstandard2.0\MessagePrinter.dll
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\bin\MCD\Debug\netstandard2.0\MessagePrinter.pdb
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\obj\MCD\Debug\netstandard2.0\MessagePrinter.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\obj\MCD\Debug\netstandard2.0\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\obj\MCD\Debug\netstandard2.0\MessagePrinter.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\obj\MCD\Debug\netstandard2.0\MessagePrinter.AssemblyInfo.cs
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\obj\MCD\Debug\netstandard2.0\MessagePrinter.dll
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\MessagePrinter\obj\MCD\Debug\netstandard2.0\MessagePrinter.pdb

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\SimpleDependency.deps.json
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.json
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.dev.json
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\SimpleDependency.dll
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\SimpleDependency.pdb
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\MessagePrinter.dll
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\bin\MCD\Debug\netcoreapp2.2\MessagePrinter.pdb
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfo.cs
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.csproj.CopyComplete
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.dll
+C:\Users\gabri\Documents\West Texas A&M University\4390 Software Systems and Development\CIDM4390-InClassCode\SimpleDependencyInClass\SimpleDependency\obj\MCD\Debug\netcoreapp2.2\SimpleDependency.pdb
